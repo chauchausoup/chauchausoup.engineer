@@ -17,8 +17,8 @@ function ActualHead(){
         <div style={{ background: `lightblue` ,height:"50px",width:"200px",padding:"20px"}}>
         <p>chauchausoup.engineer</p>
       </div>
-      <Link to ="/about">About</Link>
-      
+      <Link to ="/about">About</Link><br/>
+      <Link to ="/blogs">Blogs</Link>
       <div id="socials">
    
       </div>
